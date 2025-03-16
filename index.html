@@ -26,11 +26,13 @@
 <meta property="og:type" content="website">
 <link rel="manifest" href="manifest.json">
 <script>
-    if ('serviceWorker' in navigator) {
-        navigator.serviceWorker.register('/sw.js')
-            .then(reg => console.log('Service Worker Registered:', reg))
-            .catch(err => console.log('Service Worker Registration Failed:', err));
-    }
+    <script>
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/report/sw.js')
+      .then(reg => console.log("Service Worker Registered!", reg))
+      .catch(err => console.log("Service Worker Registration Failed:", err));
+  }
+</script>
 </script>
 
 </head>
