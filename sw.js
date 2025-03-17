@@ -4,10 +4,10 @@ const CACHE_NAME = "ee-app-cache-v1";
 const urlsToCache = [
   "/",
   "/index.html",
-  "/styles.css", // Add your CSS file path
+  "/styles.css",
   "/manifest.json",
-  "/icon-192x192.png",
-  "/icon-512x512.png",
+  "/E-E_App_192x192.png",
+  "/E-E_App_512x512.png"
 ];
 
 // Install Service Worker
