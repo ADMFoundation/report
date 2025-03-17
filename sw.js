@@ -2,21 +2,21 @@
 
 const CACHE_NAME = "ee-app-cache-v1";
 const urlsToCache = [
-    "/report/",
-    "/report/index.html",
-    "/report/manifest.json",
-    "/report/style.css",
-    "/report/script.js",
-    "/report/E-E_App_192.png",
-    "/report/E-E_App_512.png"
-    "/report/adm-foundation/adm-foundation/dist/style.css",
-    "/report/adm-foundation/adm-foundation/src/style.css",
-    "/report/adm-foundation/admfoundation/src/LICENSE.txt",
-    "/report/adm-foundation/admfoundation/src/README.md",
-    "/report/adm-foundation/dist/style.css",
-    "/report/adm-foundation/src/style.css",
-    "/report/adm-foundation/LICENSE.txt",
-    "/report/adm-foundation/README.md",
+    "/",
+    "/index.html",
+    "/manifest.json",
+    "/style.css",
+    "/script.js",
+    "/E-E_App_192.png",
+    "/E-E_App_512.png"
+    "/adm-foundation/adm-foundation/dist/style.css",
+    "/adm-foundation/adm-foundation/src/style.css",
+    "/adm-foundation/admfoundation/src/LICENSE.txt",
+    "/adm-foundation/admfoundation/src/README.md",
+    "/adm-foundation/dist/style.css",
+    "/adm-foundation/src/style.css",
+    "/adm-foundation/LICENSE.txt",
+    "/adm-foundation/README.md",
 ];
 
 // Install Service Worker
