@@ -17,6 +17,7 @@ const urlsToCache = [
     "/adm-foundation/src/style.css",
     "/adm-foundation/LICENSE.txt",
     "/adm-foundation/README.md",
+    "/google1eeb1b109c640f49.html",
 ];
 
 // Install Service Worker
