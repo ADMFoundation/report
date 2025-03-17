@@ -2,12 +2,12 @@
 
 const CACHE_NAME = "ee-app-cache-v1";
 const urlsToCache = [
-  "/",
-  "/index.html",
-  "/style.css",
-  "/manifest.json",
-  "/E-E_App_192x192.png",
-  "/E-E_App_512x512.png"
+    "/report/",
+    "/report/index.html",
+    "/report/styles.css",
+    "/report/script.js",
+    "/report/E-E_App_192.png",
+    "/report/E-E_App_512.png"
 ];
 
 // Install Service Worker
