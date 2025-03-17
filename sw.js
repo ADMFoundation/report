@@ -8,6 +8,7 @@ const urlsToCache = [
     "/script.js",
     "/E-E_App_192.png",
     "/E-E_App_512.png"
+    "/adm-foundation",
     "/adm-foundation/adm-foundation/dist/style.css",
     "/adm-foundation/adm-foundation/src/style.css",
     "/adm-foundation/admfoundation/src/LICENSE.txt",
