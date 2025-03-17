@@ -10,9 +10,13 @@ const urlsToCache = [
     "/report/E-E_App_192.png",
     "/report/E-E_App_512.png"
     "/report/adm-foundation/adm-foundation/dist/style.css",
-    "/report/adm-foundation/src/style.css",
+    "/report/adm-foundation/adm-foundation/src/style.css",
     "/report/adm-foundation/admfoundation/src/LICENSE.txt",
     "/report/adm-foundation/admfoundation/src/README.md",
+    "/report/adm-foundation/dist/style.css",
+    "/report/adm-foundation/src/style.css",
+    "/report/adm-foundation/LICENSE.txt",
+    "/report/adm-foundation/README.md",
 ];
 
 // Install Service Worker
