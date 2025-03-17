@@ -4,7 +4,8 @@ const CACHE_NAME = "ee-app-cache-v1";
 const urlsToCache = [
     "/report/",
     "/report/index.html",
-    "/report/styles.css",
+    "/report/manifest.json",
+    "/report/style.css",
     "/report/script.js",
     "/report/E-E_App_192.png",
     "/report/E-E_App_512.png"
