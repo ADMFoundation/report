@@ -9,7 +9,7 @@ const urlsToCache = [
     "/style.css",
     "/script.js",
     "/E-E_App_192.png",
-    "/E-E_App_512.png",  // <-- Added missing comma
+    "/E-E_App_512.png", 
     "/adm-foundation/dist/style.css",
     "/adm-foundation/src/style.css",
     "/adm-foundation/LICENSE.txt",
