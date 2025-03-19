@@ -1,4 +1,5 @@
 // Service Worker - sw.js
+console.log("Service Worker loaded successfully.");
 const CACHE_NAME = "ee-app-cache-v1";
 const urlsToCache = [
     "/",
